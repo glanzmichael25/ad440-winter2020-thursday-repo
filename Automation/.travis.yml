@@ -1,6 +1,6 @@
 deploy:
   provider: s3
-branch:
+branches:
   - feature-sprint1-mglanz
   access_key_id: AKIAQ4TMT5RKLJAZ3Z7Q
   secret_access_key:
